@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, sejam todos bem-vindos ao meu perfil!
 
-<!--
-**Alisson-Miranda/Alisson-Miranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Capa do Perfil](https://www.bing.com/images/create/letra-a-com-fundo-tecnolicos/1-66fddfbbc61b4395b372f732a23aeb9a?id=XaLthZp6CilQf1ppf9aIZA%3d%3d&view=detailv2&idpp=genimg&thId=OIG3.tVqsXYDvFuubwuxSf7Xo&skey=9iIL0Q4IHrKWbbSmFsujiYVxrUn5q6Ka-HjbT2n2bQ0&FORM=GCRIDP&mode=overlay) <!-- Adicione aqui o link da sua imagem -->
 
-Here are some ideas to get you started:
+## Sobre mim
+Meu nome é **Alisson** e tenho **28 anos**. Sou **eletricista automotivo** há mais de **10 anos** e atualmente estou estudando **Técnico em Desenvolvimento e Análise de Sistemas** no **Senac Gravataí, RS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tecnologias
+### Linguagens
+- 💻 **JavaScript**
+- 🌐 **HTML**
+- 🎨 **CSS**
+
+### Bancos de Dados
+- 🗄️ **MySQL** (especialmente em bancos de dados relacionais)
