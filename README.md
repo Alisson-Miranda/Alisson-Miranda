@@ -21,9 +21,14 @@ Hello, everyone! Welcome to my profile!
 About me
 My name is Alisson, and I’m 28 years old. I’ve been an automotive electrician for over 10 years, and I’m currently studying Technical Development and Systems Analysis at Senac Gravataí, RS.
 
-⚡ Technologies
-Languages
--💻 JavaScript
--🌐 HTML
--🎨 CSS Databases
--🗄️ MySQL (especially in relational databases)
+## ⚡ Technologies
+### Languages
+- 💻 **JavaScript**
+- 🌐 **HTML**
+- 🎨 **CSS**
+
+### Bancos de Dados
+- 🗄️🗄️ MySQL (especially in relational databases)
+
+
+
