@@ -23,8 +23,7 @@ My name is Alisson, and I’m 28 years old. I’ve been an automotive electricia
 
 ⚡ Technologies
 Languages
-💻 JavaScript
-🌐 HTML
-🎨 CSS
-Databases
-🗄️ MySQL (especially in relational databases)
+-💻 JavaScript
+-🌐 HTML
+-🎨 CSS Databases
+-🗄️ MySQL (especially in relational databases)
